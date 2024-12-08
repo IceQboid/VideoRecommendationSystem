@@ -65,6 +65,6 @@ This starts the Flask App
 
 * Run POSTMAN to test endpoint methods:
 * Use GET Method. 
-
+* Pass your endpoint and get the top 10 results.
 
 
